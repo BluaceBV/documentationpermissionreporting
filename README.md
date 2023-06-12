@@ -17,3 +17,4 @@ Gives you visual insight in the permission setup through Power BI.
 Contact us if you’re interested in using this app and it’s not available in your region.
 
 ### [Install and activate the app](topics/install-and-activate.md)
+### [Assign permission sets](topics/assign-permissionsets.md)
